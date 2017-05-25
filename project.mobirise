@@ -255,7 +255,7 @@
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "0",
             "showText": true,
             "filter": false,
             "bgColor": "#ffffff",
@@ -284,16 +284,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/cover-jethro-tull-kopiekopie-2000x986-800x394.jpg",
                 "image": "@PROJECT_PATH@/assets/images/cover-jethro-tull-kopiekopie-2000x986.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
+                "thumb": "@PROJECT_PATH@/assets/images/a0-poster-krantenkop-2000x2888-800x1155.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a0-poster-krantenkop-2000x2888.jpg",
+                "caption": "Type caption here",
+                "active": true
               },
               {
                 "tags": "Creative",
