@@ -307,7 +307,7 @@
             "showButtons": false
           },
           "title": "Graphic Design",
-          "text": "<b>A selection of school assignments and personal work.</b>",
+          "text": "A selection of school assignments and personal work, which are mostly&nbsp;reinterpretations of already existing cover art.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
@@ -316,19 +316,9 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "images": [
-              {
-                "tags": "School work",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cover-jethro-tull-kopiekopie-2000x986-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cover-jethro-tull-kopiekopie-2000x986.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "School work",
                 "playVideo": false,
@@ -344,8 +334,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cover-2000x2909-800x1163.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cover-2000x2909.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-2000x2910-800x1164.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cover-2000x2910.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -354,8 +344,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/handleiding-pagina-6-2000x1454-800x581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/handleiding-pagina-6-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/handleiding-pagina-6-2000x1455-800x582.jpg",
+                "image": "@PROJECT_PATH@/assets/images/handleiding-pagina-6-2000x1455.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -364,8 +354,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pagina-10-2000x1454-800x581.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pagina-10-2000x1454.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pagina-10-2000x1453-800x581.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pagina-10-2000x1453.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "School work",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cover-jethro-tull-kopiekopie-2000x986-800x394.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cover-jethro-tull-kopiekopie-2000x986.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -387,7 +387,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dope-ep-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dope-ep-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Fan cover art",
@@ -397,7 +397,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/no-feelings-ep-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/no-feelings-ep-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Fan cover art",
@@ -483,7 +483,7 @@
             "spacing": "0",
             "showText": false,
             "filter": true,
-            "bgColor": "#efefef",
+            "bgColor": "#ffffff",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
