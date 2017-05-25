@@ -445,6 +445,17 @@ h6,
 #header5-u .mbr-section-lead B {
   color: #ffffff;
 }
+#header5-15 .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+#header5-15 .mbr-section-lead {
+  color: #9c9a9a;
+  text-align: center;
+}
+#header5-15 .mbr-section-lead B {
+  color: #9c9a9a;
+}
 #form1-q .form-control-label {
   color: #232323;
 }

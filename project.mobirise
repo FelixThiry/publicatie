@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -268,6 +268,49 @@
           "allItem": "All"
         },
         {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "color": "#9c9a9a",
+              "text-align": "center"
+            },
+            ".mbr-section-lead B": {
+              "color": "#9c9a9a"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-15",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Graphic Design",
+          "text": "<b>A selection of school assignments and personal work.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -294,7 +337,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/a0-poster-krantenkop-2000x2888-800x1155.jpg",
                 "image": "@PROJECT_PATH@/assets/images/a0-poster-krantenkop-2000x2888.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "School work",
@@ -327,7 +370,7 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "School work",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -337,14 +380,14 @@
                 "active": false
               },
               {
-                "tags": "School work",
+                "tags": "Fan cover art",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dope-ep-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dope-ep-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Fan cover art",
