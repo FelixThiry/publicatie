@@ -292,7 +292,7 @@
             "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/circles%20achtergrond-2000x2000.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#f7da64",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
