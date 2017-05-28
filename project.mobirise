@@ -271,7 +271,7 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "center"
             },
             ".mbr-section-lead": {
@@ -279,7 +279,7 @@
               "text-align": "center"
             },
             ".mbr-section-lead B": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -289,11 +289,11 @@
           "_anchor": "header5-15",
           "_params": {
             "parallax": false,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/circles-achtergrond-2000x2000.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/circles%20achtergrond-2000x2000.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
