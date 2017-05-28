@@ -291,7 +291,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/circles-ep-2000x2000.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/circles-achtergrond-2000x2000.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
